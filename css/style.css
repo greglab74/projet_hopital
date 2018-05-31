@@ -70,6 +70,8 @@ h1 {
 
 #corps li .texte {
 		display: none;
+		margin-left: 155px;
+		text-align: justify;
 }
 
 .circle {
@@ -88,8 +90,7 @@ h1 {
 }
 #epaule:hover + #texteepaule {
 	display: inline-block;
-	margin-left: 155px;
-	text-align: justify;
+
 }
 
 #coude:hover {
@@ -98,8 +99,7 @@ h1 {
 }
 #coude:hover + #textecoude {
 	display: inline-block;
-	margin-left: 155px;
-	text-align: justify;
+
 
 }
 
@@ -109,8 +109,7 @@ h1 {
 }
 #poignet:hover + #textepoignet {
 	display: inline-block;
-	margin-left: 155px;
-	text-align: justify;
+
 }
 
 #hanche:hover {
@@ -119,8 +118,7 @@ h1 {
 }
 #hanche:hover + #textehanche {
 	display: inline-block;
-	margin-left: 155px;
-	text-align: justify;
+
 }
 
 #genou:hover {
@@ -129,8 +127,7 @@ h1 {
 }
 #genou:hover + #textegenou {
 	display: inline-block;
-	margin-left: 155px;
-	text-align: justify;
+
 }
 
 #cheville:hover {
@@ -139,6 +136,5 @@ h1 {
 }
 #cheville:hover + #textecheville {
 	display: inline-block;
-	margin-left: 155px;
-	text-align: justify;
+	
 }
