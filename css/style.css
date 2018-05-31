@@ -1,7 +1,7 @@
 * {
 	margin: 0;
 	padding: 0;
-	
+
 }
 
 html, body, .container{
@@ -14,7 +14,6 @@ header {
 	text-align: center;
 	padding-top: 50px;
 	padding-bottom: 50px;
-	margin-bottom: 50px;
 }
 
 h1 {
@@ -22,8 +21,8 @@ h1 {
 }
 #container {
 	position: absolute;
-	top: 60%; left: 50%; /* à 50%/50% du parent référent */
-  transform: translate(-50%, -50%); /* décalage de 50% de sa propre taille */
+	left: 50%; /* à 50%/50% du parent référent */
+  transform: translate(-50%, -0%); /* décalage de 50% de sa propre taille */
 }
 
 #corps{
